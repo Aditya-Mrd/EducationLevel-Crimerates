@@ -4,12 +4,12 @@
 ### Requirements
 Python 3
 
-* Pandas
-* Matplotlib
-* Seaborn
-* Numpy
-* Addfips
-* Sci-kit Learn
+* Pandas 2.2.2
+* Matplotlib 3.9.0
+* Seaborn 0.13.2
+* Numpy 1.26.4
+* Addfips 0.4.2
+* Sci-kit Learn 1.5.1
 
 ### About the Study
 This study was conducted under Renaissance Learning. This study looks at the relationship between education and crime rates in the USA, using county level datasets. It compares variables such as the percentage of people in a county that attained a high school diploma, or the percentage of people in a county that attained an associatee's degree, and more against the number of violent crimes in the county (murders, rapes, robberies, and aggravated assaults). From this, we hope to understand crime better, and get a sense of what may be driving crime in the USA.
